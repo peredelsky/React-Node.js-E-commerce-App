@@ -18,3 +18,6 @@ SECRET_KEY=secretkey123
 2) Install node_modules by "npm i" in both directories
 
 3) Run by "npm run dev" in server directory and by "npm start" in client
+
+# Screenshots
+![](/screenshots/1)

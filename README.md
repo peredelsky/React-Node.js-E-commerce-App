@@ -20,4 +20,4 @@ SECRET_KEY=secretkey123
 3) Run by "npm run dev" in server directory and by "npm start" in client
 
 # Screenshots
-![](/screenshots/1)
+![](screenshots/1)

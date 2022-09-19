@@ -20,5 +20,12 @@ SECRET_KEY=secretkey123
 3) Run by "npm run dev" in server directory and by "npm start" in client
 
 # Screenshots
-![screenshots/1](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/1.png?raw=true))
-
+![screenshots/1](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/1.png?raw=true)
+![screenshots/2](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/2.png?raw=true)
+![screenshots/3](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/3.png?raw=true)
+![screenshots/4](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/4.png?raw=true)
+![screenshots/5](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/5.png?raw=true)
+![screenshots/6](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/6.png?raw=true)
+![screenshots/7](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/7.png?raw=true)
+![screenshots/8](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/8.png?raw=true)
+![screenshots/9](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/9.png?raw=true)

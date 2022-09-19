@@ -20,4 +20,5 @@ SECRET_KEY=secretkey123
 3) Run by "npm run dev" in server directory and by "npm start" in client
 
 # Screenshots
-![](screenshots/1)
+![screenshots/1](https://github.com/peredelsky/React-Node.js-E-commerce-App/blob/main/screenshots/1.png?raw=true))
+

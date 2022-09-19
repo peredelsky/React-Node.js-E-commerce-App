@@ -1,5 +1,5 @@
 # React-Node.js-E-commerce-App
-Fullstack JavaScript app building with React, Express.js, PostgreSQL + Sequelize
+Fullstack JavaScript app building with React, Express.js, PostgreSQL + Sequelize. MobX is used as a state manager
 
 # Installing
 0) Create a PostreSQL's database
